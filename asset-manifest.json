@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bb637fe2.chunk.css",
+    "main.js": "/static/js/main.cc8fa566.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.b8fa0ce9.js",
+    "static/css/2.5537b6e8.chunk.css": "/static/css/2.5537b6e8.chunk.css",
+    "static/js/2.013f3699.chunk.js": "/static/js/2.013f3699.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.a9eaccb54d11ea0e2007c871a037a0ed.js": "/precache-manifest.a9eaccb54d11ea0e2007c871a037a0ed.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.013f3699.chunk.js.LICENSE.txt": "/static/js/2.013f3699.chunk.js.LICENSE.txt",
+    "static/media/main.sass": "/static/media/SophosSans-Ultralight.4cc712bd.otf",
+    "static/media/analyze.svg": "/static/media/analyze.338be757.svg",
+    "static/media/angle-up.60d89147.svg": "/static/media/angle-up.60d89147.svg",
+    "static/media/brandLogo.svg": "/static/media/brandLogo.2b8e8d08.svg",
+    "static/media/diagSwitch.svg": "/static/media/diagSwitch.6f3c8012.svg",
+    "static/media/errorboundary.svg": "/static/media/errorboundary.f0a0e582.svg",
+    "static/media/key.svg": "/static/media/key.90ca1815.svg",
+    "static/media/pen.svg": "/static/media/pen.720fb402.svg",
+    "static/media/people.svg": "/static/media/people.87046f42.svg",
+    "static/media/index.css": "/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8fa0ce9.js",
+    "static/css/2.5537b6e8.chunk.css",
+    "static/js/2.013f3699.chunk.js",
+    "static/css/main.bb637fe2.chunk.css",
+    "static/js/main.cc8fa566.chunk.js"
+  ]
+}
